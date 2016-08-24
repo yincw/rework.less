@@ -1,6 +1,6 @@
 # rework.less
 
-> 一种关于浏览器用户代理样式（user agent stylesheet）兼容的解决方案
+> 一种面向浏览器用户代理样式（user agent stylesheet）兼容的解决方案
 
 ## 特色
 
