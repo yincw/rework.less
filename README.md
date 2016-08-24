@@ -17,16 +17,14 @@
 
 ## 浏览器兼容性
 
-IE | Edge | Firefox | Chrome | Safari
----|---|---|---|---
-6+ | Latest | Latest | Latest| Latest
+IE(Trident) | Firefox(Gecko) | Chrome/Opera(Blink) | Safari/Edge(WebKit)
+---|---|---|---
+6+ | Latest | Latest| Latest
 
 注意：集成 CSS 工具具体兼容性查阅具体模块内部说明。
 
 ## 参考
 
-- [normalize.css](https://github.com/necolas/normalize.css)
 - [getbootstrap.com](http://getbootstrap.com/css/)
 - [html5doctor.com](http://html5doctor.com/element-index/)
-- [pure](https://github.com/yahoo/pure)
-- [weui](https://github.com/weui/weui)
+- [normalize.css](https://github.com/necolas/normalize.css)
